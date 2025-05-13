@@ -1,14 +1,14 @@
 # Atelier VMV de Product Designer : Figma
 
-[Partie 1: Première application ](Atelier%20VMV%20de%20Product%20Designer%20Figma%201eb21bfd6dd780cdbdcac3dbfc12ab99/Partie%201%20Premie%CC%80re%20application%201eb21bfd6dd7800da176ed1b4cf1e2c6.md)
+[Partie 1: Première application ](Partie_1_Première_application.md)
 
-[Partie 2: Page d’accueil ](Atelier%20VMV%20de%20Product%20Designer%20Figma%201eb21bfd6dd780cdbdcac3dbfc12ab99/Partie%202%20Page%20d%E2%80%99accueil%201eb21bfd6dd78032b288ea4d8538d216.md)
+[Partie 2: Page d’accueil ](Partie_2_Page_accueil.md)
 
-[Partie 3: Premier produit](Atelier%20VMV%20de%20Product%20Designer%20Figma%201eb21bfd6dd780cdbdcac3dbfc12ab99/Partie%203%20Premier%20produit%201eb21bfd6dd780659c16efe16a52cdc1.md)
+[Partie 3: Premier produit](Partie_3_Premier_produit.md)
 
-[Partie 4: Liste des produits](Atelier%20VMV%20de%20Product%20Designer%20Figma%201eb21bfd6dd780cdbdcac3dbfc12ab99/Partie%204%20Liste%20des%20produits%201eb21bfd6dd7803e8ff2dcfc75f434b5.md)
+[Partie 4: Liste des produits](Partie_4_Liste_des_produits.md)
 
-[Partie 5: Détail de produit](Atelier%20VMV%20de%20Product%20Designer%20Figma%201eb21bfd6dd780cdbdcac3dbfc12ab99/Partie%205%20De%CC%81tail%20de%20produit%201eb21bfd6dd78019ae1ff2ab07952c8a.md)
+[Partie 5: Détail de produit](Partie_5_Detail_de_produit.md)
 
 # Premiers pas
 

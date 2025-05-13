@@ -1,14 +1,15 @@
 # Partie 1: Première application
 
-[Partie 1: Première application ](Partie%201%20Premie%CC%80re%20application.md)
 
-[Partie 2: Page d’accueil ](Partie%202%20Page%20d%E2%80%99accueil.md)
+[Partie 1: Première application ](Partie_1_Première_application.md)
 
-[Partie 3: Premier produit](Partie%203%20Premier%20produit.md)
+[Partie 2: Page d’accueil ](Partie_2_Page_accueil.md)
 
-[Partie 4: Liste des produits](Partie%204%20Liste%20des%20produits.md)
+[Partie 3: Premier produit](Partie_3_Premier_produit.md)
 
-[Partie 5: Détail de produit](Partie%205%20De%CC%81tail%20de%20produit.md)
+[Partie 4: Liste des produits](Partie_4_Liste_des_produits.md)
+
+[Partie 5: Détail de produit](Partie_5_Detail_de_produit.md)
 
 ## Check-list d’étape à effectuer de cette vidéo
 
