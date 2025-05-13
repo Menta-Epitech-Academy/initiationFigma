@@ -25,18 +25,18 @@ Chaque participant au stage doit se créer un compte pour pouvoir faire cet atel
 
 </aside>
 
-![image.png](../static/login.png)
+![image.png](./static/login.png)
 
 Une fois connecté, tu vas arriver sur cette page ⤵️
 
-![image.png](../static/home.png)
+![image.png](./static/home.png)
 
 Maintenant, clique sur le bouton **Design** en haut à gauche de ton écran
 
-![image.png](../static/design.png)
+![image.png](./static/design.png)
 
 Tu vas arriver sur cette page ⤵️
 
-![image.png](../static/work.png)
+![image.png](./static/work.png)
 
-Bravo, tu es au bon endroit pour commencer à construire ta première application mobile ➡️ [Partie 1: Première application ](./base/Partie%201%20Premie%CC%80re%20application.md)
+Bravo, tu es au bon endroit pour commencer à construire ta première application mobile ➡️ [Partie 1: Première application ](./Partie_1_Première_application.md)
