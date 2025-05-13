@@ -1,0 +1,24 @@
+{
+    "subjectName": "Initiation a figma",
+    "parts": [
+        {
+            "subparts": [
+                {
+                    "path": "basic/FP_Part0_login.md"
+                },
+                {
+                    "path": "basic/Partie 1 Première application.md"
+                },
+                {
+                    "path": "basic/Partie 2 Page d’accueil.md"
+                },
+                {
+                    "path": "basic/Partie 4 Liste des produits.md"
+                },
+                {
+                    "path": "basic/Partie 5 Détail de produit.md"
+                }
+            ]
+        }
+    ]
+}
