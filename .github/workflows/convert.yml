@@ -32,6 +32,7 @@ jobs:
 
       - name: Run converter via Docker
         run: |
+          docker pull ghcr.io/menta-epitech-academy/mdconverter:main
           docker run --rm \
             -v ${{ github.workspace }}:/ARTIFACTS \
             ghcr.io/menta-epitech-academy/mdconverter:main \
